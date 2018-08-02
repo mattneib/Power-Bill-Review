@@ -14,11 +14,12 @@ library(lubridate)
 * go to GRU download file and import dataset  
 * [GRU for Download](https://www.gru.com/)  
 * read file to smaller name:  
-* dfgru <- `gru.billing.history.(3)` or other df desination  
+* dfgru <- `GRU.csv` or other name,  df desination can vary too 
 * write the imported file to csv folder  
 * write_csv(dfgru ,lookup)  
 
 
 1. download **PowerReview.Rmd** to look at code  
 2. download **PowerReview.R** to look at similar code  
+3. download **GRU.csv** to use 3 years of bills
 3. download **PowerReview.Html** to look at graphs  
