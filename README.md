@@ -19,5 +19,6 @@ library(lubridate)
 * write_csv(dfgru ,lookup)  
 
 
-download PowerReview.Rmd to look at code
-download PowerReview.Html to look at graphs
+download PowerReview.Rmd to look at code  
+download PowerReview.R to look at similar code  
+download PowerReview.Html to look at graphs  
