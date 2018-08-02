@@ -2,8 +2,6 @@
 Review 3 years of power bills. Shows effect of adding solar panels.
 
 
-# Power Review of the last 3 years
-
 8/2018  
 by matt2001   
 
@@ -20,3 +18,6 @@ library(lubridate)
 * write the imported file to csv folder  
 * write_csv(dfgru ,lookup)  
 
+
+download PowerReview.Rmd to look at code
+download PowerReview.Html to look at graphs
