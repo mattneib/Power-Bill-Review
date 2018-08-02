@@ -22,4 +22,4 @@ library(lubridate)
 1. download **PowerReview.Rmd** to look at code  
 2. download **PowerReview.R** to look at similar code  
 3. download **GRU.csv** to use 3 years of bills
-3. download **PowerReview.Html** to look at graphs  
+4. download **PowerReview.Html** to look at graphs  
